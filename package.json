@@ -1,6 +1,6 @@
 {
   "name": "coderdx-es-module-example",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Package contains an example of ES module functionality",
   "type": "module",
   "main": "index.js",
@@ -9,5 +9,6 @@
   },
   "author": "",
   "license": "ISC",
+  "keywords": ["es", "module", "example", "sample", "tutorial"],
   "repository": "github:coderDx/coderdx-es-module-example"
 }
